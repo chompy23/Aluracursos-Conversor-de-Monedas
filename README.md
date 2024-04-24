@@ -17,20 +17,11 @@ Acceso a Internet para obtener las tasas de cambio de la API.
 
 Cómo usar:
 Clona este repositorio en tu máquina local:
-git clone https://github.com/chompy23/Aluracursos-Conversor-de-Monedas.git
-
-Navega hasta el directorio del proyecto:
-cd conversor-de-moneda
-
-Compila el código Java:
-javac Convertidor.java
-
-Ejecuta la aplicación:
-java Convertidor
-
+git clone [https://github.com/chompy23/Aluracursos-Conversor-de-Monedas.git
 Sigue las instrucciones en la consola para realizar conversiones de moneda.
-Contribuciones
+
+Contribuciones:
 Las contribuciones son bienvenidas. Si tienes alguna idea de mejora o encuentras algún problema, no dudes en abrir un issue o enviar un pull request.
 
-Agradecimientos
-Este proyecto fue desarrollado como parte de un curso de programación en Java.
+Agradecimientos:
+Este proyecto fue desarrollado como parte de un curso de Backend en Alura Latam con programación en Java.
